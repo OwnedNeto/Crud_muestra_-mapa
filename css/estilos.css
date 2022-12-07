@@ -1,0 +1,14 @@
+#cuerpoCard{
+    background-color:lightcyan;
+}
+body{
+    background-color: rgb(143, 107, 9);
+}
+.estiloMapa path{
+    fill: rgb(10, 243, 2);
+    stroke: rgb(19, 18, 18);
+    stroke: width 4px;
+}
+.estiloMapa path:hover{
+    fill: rgb(47, 0, 255);
+}
